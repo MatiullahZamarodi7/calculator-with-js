@@ -1,4 +1,4 @@
 this is the live show of calculator
 ❤️^_^
 ## 🚀 Live Demo
-[Click here to view the project](https://matiullahzamarodi7.github.io/calculator-js/)
+[![pic of prj](calculator_projects/calc.png)](https://matiullahzamarodi7.github.io/calculator-with-js/)
